@@ -3,7 +3,7 @@
 </div>  
   
 
-### <div align="center">I'm Tolgahan, a full-time full-stack freelance developer 👨‍💻 working remotely since 2022 🚀</div>  
+### <div align="center">I'm Tolgahan, a full-time full-stack freelance web developer 👨‍💻 working remotely since 2022 🚀</div>  
   
 
 - 🌱 I’m currently learning Docker, Kubernetes and GraphQL  
