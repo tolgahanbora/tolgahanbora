@@ -6,7 +6,7 @@
 ### <div align="center">I'm Tolgahan, a full-time full-stack freelance web developer 👨‍💻 working remotely since 2022 🚀</div>  
   
 
-- 🌱 I’m currently learning Docker, Kubernetes and GraphQL  
+- 🌱 I’m currently learning Docker, Next.js and GraphQL  
   
 
 - ❓ Ask me about anything related to MERN stack and related technologies  
