@@ -11,7 +11,7 @@
 - 💬 Ask me about related to Full stack and technologies
 - ⚡ Fun fact I use tabs over spaces
 
-#### My Portfolio : [Tolgahan Bora](https://www.tolgahanbora.me/)
+#### My Portfolio : [Tolgahanbora.me](https://www.tolgahanbora.me/)
   
 
 <br/>  
