@@ -3,16 +3,13 @@
 </div>  
   
 
-### <div align="center">I'm Tolgahan, a full-time full-stack freelance web developer 👨‍💻 working remotely since 2020 🚀</div>  
+### <div align="center">Hey, I'm Tolgahan. Full Stack Web Developer 👨‍💻 working remotely since 2020 🚀</div>  
   
 
-- 🌱 I’m currently learning Docker, Next.js and GraphQL  
-  
-
-- ❓ Ask me about anything related to MERN stack and related technologies  
-  
-
-- ⚡ Fun fact: I use tabs over spaces  
+🔭 I’m currently working on Next.js, React.js, Express.js and REST API
+🌱 I’m currently learning DevOps and React Native
+💬 Ask me about related to Full stack and technologies
+⚡ Fun fact I use tabs over spaces
   
 
 <br/>  
