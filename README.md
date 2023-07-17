@@ -4,8 +4,8 @@
   
 
 ### <div align="center">Hey, I'm Tolgahan. Full Stack Web Developer 👨‍💻 working remotely since 2020 🚀</div>  
-  
 
+  #### About Me: 
 - 🔭 I’m currently working on Next.js, React.js, Express.js and REST API
 - 🌱 I’m currently learning DevOps and React Native
 - 💬 Ask me about related to Full stack and technologies
